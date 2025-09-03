@@ -27,10 +27,6 @@
 "link":"https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
   "name": "Sony aath"},
 
-
-
-
-
 {"id": "-_w3Jbq3QoW-mFCM2YIzxA",
 "logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png","url":"https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
 "link":"https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
