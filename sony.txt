@@ -1,4 +1,6 @@
-[ {
+[ 
+
+{
 
     "id": "sony-ten-1",
 
@@ -364,4 +366,5 @@
 
     "m3u8": "https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_1300.m3u8"
 
-  }] 
+  }
+] 
